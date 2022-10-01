@@ -32,4 +32,4 @@
 <img alt="Erro na imagen" height="400" width="400" src="https://1.bp.blogspot.com/-ARmfR7gbJqM/VQ8d4lLuqLI/AAAAAAAAOkE/vgLq_VurSD4/s1600/8%2Bbit%2B3.gif">
 </div>
 ## White Snake!!
-  ![joseairtonribeiro snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joseairtonribeiro/joseairtonribeiro/blob/output/github-contribution-grid-snake.svg)
