@@ -33,4 +33,5 @@
 </div>
 <div>
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/JoseAirtonRibeiro/joseairtonribeiro/blob/output/github-contribution-grid-snake.gif)
 </div>
