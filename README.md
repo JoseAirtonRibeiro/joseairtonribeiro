@@ -26,9 +26,10 @@
   <a href="https://www.instagram.com/jjoseairton889328/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="50" width="50"></a>
   <a href="mailto:joseairtonrjunior@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" width="50"></a>
   <a href="https://open.spotify.com/playlist/78xflLgPXwhf1FA5H4zpX5?si=de34d4e3a5d94598" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3537/3537017.png" height="47" width="50"></a>
-  ![snake gif](https://github.com/JoseAirtonRibeiro/joseairtonribeiro/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div class="Spin_3d_lcc">
 <img alt="Erro na imagen" height="400" width="400" src="https://1.bp.blogspot.com/-ARmfR7gbJqM/VQ8d4lLuqLI/AAAAAAAAOkE/vgLq_VurSD4/s1600/8%2Bbit%2B3.gif">
 </div>
+## White Snake!!
+  ![joseairtonribeiro snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
