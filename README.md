@@ -45,7 +45,3 @@
 ![Snake animation](https://github.com/joseairtonribeiro/joseairtonribeiro/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-<div align="center">
-  <img height="450" width="450" src="https://1.bp.blogspot.com/-ARmfR7gbJqM/VQ8d4lLuqLI/AAAAAAAAOkE/vgLq_VurSD4/s1600/8%2Bbit%2B3.gif" target="_blank">
-</div>
